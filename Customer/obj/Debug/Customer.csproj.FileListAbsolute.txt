@@ -1,0 +1,9 @@
+C:\Users\Erico Wijaya\Desktop\03081180022_Erico\Customer\bin\Debug\Customer.exe.config
+C:\Users\Erico Wijaya\Desktop\03081180022_Erico\Customer\bin\Debug\Customer.exe
+C:\Users\Erico Wijaya\Desktop\03081180022_Erico\Customer\bin\Debug\Customer.pdb
+C:\Users\Erico Wijaya\Desktop\03081180022_Erico\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+C:\Users\Erico Wijaya\Desktop\03081180022_Erico\Customer\obj\Debug\Customer.Form1.resources
+C:\Users\Erico Wijaya\Desktop\03081180022_Erico\Customer\obj\Debug\Customer.Properties.Resources.resources
+C:\Users\Erico Wijaya\Desktop\03081180022_Erico\Customer\obj\Debug\Customer.csproj.GenerateResource.Cache
+C:\Users\Erico Wijaya\Desktop\03081180022_Erico\Customer\obj\Debug\Customer.exe
+C:\Users\Erico Wijaya\Desktop\03081180022_Erico\Customer\obj\Debug\Customer.pdb

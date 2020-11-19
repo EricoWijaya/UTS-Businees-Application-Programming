@@ -1,0 +1,8 @@
+C:\Users\Erico Wijaya\Desktop\03081180022_Erico\Admin\bin\Debug\Admin.exe.config
+C:\Users\Erico Wijaya\Desktop\03081180022_Erico\Admin\bin\Debug\Admin.exe
+C:\Users\Erico Wijaya\Desktop\03081180022_Erico\Admin\bin\Debug\Admin.pdb
+C:\Users\Erico Wijaya\Desktop\03081180022_Erico\Admin\obj\Debug\Admin.Form1.resources
+C:\Users\Erico Wijaya\Desktop\03081180022_Erico\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\Erico Wijaya\Desktop\03081180022_Erico\Admin\obj\Debug\Admin.csproj.GenerateResource.Cache
+C:\Users\Erico Wijaya\Desktop\03081180022_Erico\Admin\obj\Debug\Admin.exe
+C:\Users\Erico Wijaya\Desktop\03081180022_Erico\Admin\obj\Debug\Admin.pdb
